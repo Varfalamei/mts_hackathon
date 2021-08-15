@@ -1,0 +1,4 @@
+com/example/mts_maps/BuildConfig.java
+ com.example.mts_maps.BuildConfig
+com/example/mts_maps/databinding/ActivityMapsBinding.java
+ com.example.mts_maps.databinding.ActivityMapsBinding
